@@ -1,0 +1,122 @@
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\SendScreenAway.exe.config
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\SendScreenAway.exe
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\SendScreenAway.pdb
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\Awesomium.Core.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\Awesomium.Windows.Forms.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\Awesomium.Core.xml
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\Awesomium.Windows.Forms.xml
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\awesomium.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\icudt.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\avcodec-53.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\avformat-53.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\avutil-51.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\libEGL.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\libGLESv2.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\awesomium_process
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\inspector.pak
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\bin\Release\xinput9_1_0.dll
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.Properties.Resources.resources
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.csproj.GenerateResource.Cache
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.exe
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.pdb
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.WebBrowser.resources
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.MainMenu.resources
+G:\TwoDoomedPenguins\RPG Manager\SendScreenAway\obj\Release\SendScreenAway.csprojResolveAssemblyReference.cache
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\SendScreenAway.exe.config
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.exe
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.pdb
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\SendScreenAway.exe
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\SendScreenAway.pdb
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\Awesomium.Core.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\Awesomium.Windows.Forms.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\Awesomium.Core.xml
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\Awesomium.Windows.Forms.xml
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\awesomium.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\icudt.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\avcodec-53.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\avformat-53.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\avutil-51.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\libEGL.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\libGLESv2.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\awesomium_process
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\inspector.pak
+\\10.0.0.246\DataUnityStuff\SendScreenAway\bin\Release\xinput9_1_0.dll
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.csprojResolveAssemblyReference.cache
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.WebBrowser.resources
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.MainMenu.resources
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.Properties.Resources.resources
+\\10.0.0.246\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.csproj.GenerateResource.Cache
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\SendScreenAway.exe.config
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.exe
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.pdb
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.csprojResolveAssemblyReference.cache
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.WebBrowser.resources
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.MainMenu.resources
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.csproj.GenerateResource.Cache
+G:\TwoDoomedPenguins\SendScreenAway\obj\Release\SendScreenAway.Properties.Resources.resources
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\YouTube_Template.html
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\SendScreenAway.exe
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\SendScreenAway.pdb
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\Awesomium.Core.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\Awesomium.Windows.Forms.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\Awesomium.Core.xml
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\Awesomium.Windows.Forms.xml
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\awesomium.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\icudt.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\avcodec-53.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\avformat-53.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\avutil-51.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\libEGL.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\libGLESv2.dll
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\awesomium_process
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\inspector.pak
+G:\TwoDoomedPenguins\SendScreenAway\bin\Release\xinput9_1_0.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\SendScreenAway.exe.config
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.exe
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.pdb
+E:\DataUnityStuff\SendScreenAway\bin\Release\YouTube_Template.html
+E:\DataUnityStuff\SendScreenAway\bin\Release\SendScreenAway.exe
+E:\DataUnityStuff\SendScreenAway\bin\Release\SendScreenAway.pdb
+E:\DataUnityStuff\SendScreenAway\bin\Release\Awesomium.Core.xml
+E:\DataUnityStuff\SendScreenAway\bin\Release\Awesomium.Windows.Forms.xml
+E:\DataUnityStuff\SendScreenAway\bin\Release\awesomium.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\icudt.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\avcodec-53.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\avformat-53.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\avutil-51.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\libEGL.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\libGLESv2.dll
+E:\DataUnityStuff\SendScreenAway\bin\Release\awesomium_process
+E:\DataUnityStuff\SendScreenAway\bin\Release\inspector.pak
+E:\DataUnityStuff\SendScreenAway\bin\Release\xinput9_1_0.dll
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.csprojResolveAssemblyReference.cache
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.WebBrowser.resources
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.MainMenu.resources
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.Properties.Resources.resources
+E:\DataUnityStuff\SendScreenAway\obj\Release\SendScreenAway.csproj.GenerateResource.Cache
+E:\DataUnityStuff\MainFolder_SendScreenAway\SendScreenAway\bin\Release\SendScreenAway.exe.config
+E:\DataUnityStuff\MainFolder_SendScreenAway\SendScreenAway\obj\Release\SendScreenAway.exe
+E:\DataUnityStuff\MainFolder_SendScreenAway\SendScreenAway\obj\Release\SendScreenAway.pdb
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\SendScreenAway.exe.config
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.exe
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.pdb
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\YouTube_Template.html
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\SendScreenAway.exe
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\SendScreenAway.pdb
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\Awesomium.Core.xml
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\Awesomium.Windows.Forms.xml
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\awesomium.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\icudt.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\avcodec-53.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\avformat-53.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\avutil-51.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\libEGL.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\libGLESv2.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\awesomium_process
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\inspector.pak
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\bin\Release\xinput9_1_0.dll
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.csprojResolveAssemblyReference.cache
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.WebBrowser.resources
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.MainMenu.resources
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.Properties.Resources.resources
+D:\CTopp\ct\SendScreenAway_deathis\SendScreenAway_deathis\obj\Release\SendScreenAway.csproj.GenerateResource.Cache
