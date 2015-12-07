@@ -1,2 +1,0 @@
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><iframe width="560" height="315" src="https://www.youtube.com/embed/BLABLA" frameborder="0" allowfullscreen></iframe></head><body></body></html>
-TEST
