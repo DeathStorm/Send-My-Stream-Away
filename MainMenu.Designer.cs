@@ -63,7 +63,7 @@
             this.tbWidth.Name = "tbWidth";
             this.tbWidth.Size = new System.Drawing.Size(100, 20);
             this.tbWidth.TabIndex = 2;
-            this.tbWidth.Text = "500";
+            this.tbWidth.Text = "600";
             // 
             // tbHeight
             // 
@@ -71,7 +71,7 @@
             this.tbHeight.Name = "tbHeight";
             this.tbHeight.Size = new System.Drawing.Size(100, 20);
             this.tbHeight.TabIndex = 3;
-            this.tbHeight.Text = "500";
+            this.tbHeight.Text = "400";
             // 
             // label2
             // 
@@ -88,7 +88,7 @@
             this.tbURL.Name = "tbURL";
             this.tbURL.Size = new System.Drawing.Size(247, 20);
             this.tbURL.TabIndex = 0;
-            this.tbURL.Text = "http://OnlyEntertainment.net";
+            this.tbURL.Text = "http://Weird-Mind.com";
             this.tbURL.KeyDown += new System.Windows.Forms.KeyEventHandler(this.tbURL_KeyDown);
             // 
             // label3

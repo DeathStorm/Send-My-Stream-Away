@@ -155,3 +155,5 @@ Parametername: name
 [1103/131926:ERROR:ipc_channel_win.cc(261)] pipe error: 109
 [1204/150957:INFO:(0)] WebCore is now online.
 [1204/150957:INFO:(0)] Running Awesomium 1.7.4.2
+[1207/210457:INFO:(0)] WebCore is now online.
+[1207/210457:INFO:(0)] Running Awesomium 1.7.4.2
